@@ -19,7 +19,7 @@
   
  [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://media.giphy.com/media/TGLf3Iw5yVKQksoZFt/giphy.gif" alt="demo" height="300">
+  <img src="https://media.giphy.com/media/TGLf3Iw5yVKQksoZFt/giphy.gif" alt="demo" height="500">
 </div>
 
 <hr />
